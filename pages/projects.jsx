@@ -8,7 +8,7 @@ const projects = () => {
             <Head>
                 <title>Cyber Security Projects</title>
                 <meta name='description' content='Anne Elvira Portfolio created by next app' />
-                <link rel='icon' href='/favicon.ico' />
+                <link rel='icon' type='image/png' sizes='32x32' href='/icon-logo.png' />
             </Head>
             <Hero heading='Cyber Security Projects' message='Projects focusing on cyber security' />
         </div>

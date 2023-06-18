@@ -9,7 +9,7 @@ const others = () => {
             <Head>
                 <title>Other Projects</title>
                 <meta name='description' content='Anne Elvira Portfolio created by next app' />
-                <link rel='icon' href='/favicon.ico' />
+                <link rel='icon' type='image/png' sizes='32x32' href='/icon-logo.png' />
             </Head>
             <Hero heading='Other Projects' message='Other projects not related to cyber security' />
             <OthersProject />

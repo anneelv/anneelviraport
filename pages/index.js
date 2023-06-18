@@ -14,7 +14,7 @@ export default function Home() {
       <Head>
         <title>Anne Elvira Portfolio</title>
         <meta name='description' content='Anne Elvira Portfolio created by next app' />
-        <link rel='icon' href='/favicon.ico' />
+        <link rel='icon' type='image/png' sizes='32x32' href='/icon-logo.png' />
       </Head>
       {/* Message here is actually passing a json data */}
       <Hero heading= 'Anne Elvira Portfolio' message = 'List of projects that interest me' />
