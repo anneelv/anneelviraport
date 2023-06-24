@@ -1,10 +1,8 @@
 import React from 'react'
+import imgAlt from '../public/imgs/Alt.jpg'
+import py1 from '../public/imgs/python/tictactoe-preview.jpg'
 import fe1 from '../public/imgs/frontend/qrcode-preview.jpg'
 import fe2 from '../public/imgs/frontend/productreview-preview.jpg'
-import img1 from '../public/imgs/shrine2.jpg';
-import img2 from '../public/imgs/kyoto1.jpg';
-import img3 from '../public/imgs/kyoto2.jpg';
-import img4 from '../public/imgs/kyoto3.jpg';
 import HomeOtherData from './HomeOtherData';
 
 const HomeOtherContent = () => {
@@ -14,10 +12,10 @@ const HomeOtherContent = () => {
             <div className = 'grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-2 p-4'>
                 <HomeOtherData thumbImg={fe1} message= 'QR Code' />
                 <HomeOtherData thumbImg={fe2} message= 'Product Preview Card' />
-                <HomeOtherData thumbImg={img1} message= 'Project 1' />
-                <HomeOtherData thumbImg={img2} message= 'Project 2' />
-                <HomeOtherData thumbImg={img3} message= 'Project 3' />
-                <HomeOtherData thumbImg={img4} message= 'Project 4' />
+                <HomeOtherData thumbImg={py1} message= 'TicTacToe with Pygame' />
+                <HomeOtherData thumbImg={imgAlt} message= 'Project 2' />
+                <HomeOtherData thumbImg={imgAlt} message= 'Project 3' />
+                <HomeOtherData thumbImg={imgAlt} message= 'Project 4' />
             </div>
         </div>
     );

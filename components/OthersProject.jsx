@@ -24,7 +24,7 @@ const OthersProject = () => {
                     />
                 </div>
                 <div className = 'w-full h-full'>
-                    <Image src = '/imgs/kyoto1.jpg' 
+                    <Image src = '/imgs/python/tictactoe-preview.jpg' 
                     alt = '/'
                     layout = 'responsive'
                     width = '215'
@@ -33,7 +33,7 @@ const OthersProject = () => {
                     />
                 </div>
                 <div className = 'w-full h-full'>
-                    <Image src = '/imgs/kyoto2.jpg' 
+                    <Image src = '/imgs/Alt.jpg' 
                     alt = '/'
                     layout = 'responsive'
                     width = '215'
@@ -42,7 +42,7 @@ const OthersProject = () => {
                     />
                 </div>
                 <div className = 'w-full h-full'>
-                    <Image src = '/imgs/kyoto3.jpg' 
+                    <Image src = '/imgs/Alt.jpg' 
                     alt = '/'
                     layout = 'responsive'
                     width = '215'
@@ -51,7 +51,7 @@ const OthersProject = () => {
                     />
                 </div>
                 <div className = 'w-full h-full'>
-                    <Image src = '/imgs/kyoto4.jpg' 
+                    <Image src = '/imgs/Alt.jpg' 
                     alt = '/'
                     layout = 'responsive'
                     width = '215'
